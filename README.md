@@ -1,7 +1,7 @@
 # Quizzy
 
 This project was made with React and Vite. The sole purpose of this project was for me to learn React State Management, useState, useReducer, etc.
-The result? A nice 15 questions timed quiz regarding React and some of its functionalities.
+The result? A 15 questions timed quiz regarding React and some of its functionalities.
 
 
 # Setup 
