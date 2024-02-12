@@ -5,8 +5,10 @@ The result? A 15 questions timed quiz regarding React and some of its functional
 
 
 # Setup 
-### Use "npm install" in root folder
-### Write "npm run server" and "npm run start" in the same root folder. The "back end" is only a script that loads our questions from a json file.
+### Use "npm install" in root folder.
+### Write "npm run server" and "npm run start" in the same root folder.
+
+The "back end" is only a script that loads our questions from a json file.
 Enjoy!
 
 # Photos
