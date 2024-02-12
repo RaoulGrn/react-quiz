@@ -2,13 +2,13 @@
 
 This project was made with React and Vite. The sole purpose of this project was for me to learn React State Management, useState, useReducer, etc.
 The result? A 15 questions timed quiz regarding React and some of its functionalities.
+Enjoy!
 
 
 # Setup 
 - Use "npm install" in root folder.
-- Write "npm run server" and "npm run start" in the same root folder.
-The "back end" is only a script that loads our questions from a json file.
-Enjoy!
+- Write "npm run server" and "npm run start" in the same root folder. The "back end" is only a script that loads our questions from a json file.
+
 
 # Photos
 
