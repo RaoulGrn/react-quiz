@@ -11,6 +11,6 @@ Enjoy!
 
 # Photos
 
-![reactquiz3](https://github.com/RaoulGrn/react-quiz/assets/108396853/99717e2c-50a2-4870-94f9-186c484fe4d9)
 ![reactquiz2](https://github.com/RaoulGrn/react-quiz/assets/108396853/749b0c22-b584-4041-956b-01c188e26a9f)
+![reactquiz3](https://github.com/RaoulGrn/react-quiz/assets/108396853/99717e2c-50a2-4870-94f9-186c484fe4d9)
 ![reactquiz1](https://github.com/RaoulGrn/react-quiz/assets/108396853/2f9bd966-983d-4e4c-a2a2-0826f5a03994)
