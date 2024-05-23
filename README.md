@@ -7,8 +7,7 @@ Enjoy!
 
 # Setup 
 - Use "npm install" in root folder.
-- Write "npm run server" and "npm run start" in the same root folder. The "back end" is only a script that loads our questions from a json file.
-
+- Write "npm run server" and "npm run start" in the same root folder. 
 
 # Photos
 
